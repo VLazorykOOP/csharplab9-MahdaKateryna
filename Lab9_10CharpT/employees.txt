@@ -1,0 +1,7 @@
+Last Name,First Name,Middle Name,Gender,Age,Salary
+Ivanov,Ivan,Ivanovich,male,30,5000
+Petrova,Maria,Oleksiivna,female,25,4500
+Sydorov,Oleksandr,Petrovych,male,35,5500
+Kovalenko,Olena,Victorivna,female,28,4800
+Mykhailenko,Oleg,Andriiovych,male,40,6000
+Zakharchenko,Nataliia,Serhiivna,female,32,5200
